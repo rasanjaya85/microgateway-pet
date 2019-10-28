@@ -1,7 +1,7 @@
 [docker]
     [docker.dockerConfig]
         enable = true
-        name = "petstore"
+        name = "pet"
 	registry = 'index.docker.io/wso2'
         tag = 'v1'
         baseImage = 'wso2/wso2micro-gw:3.0.1'
